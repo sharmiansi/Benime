@@ -1,4 +1,4 @@
-# Benime - Whiteboard Video Maker
+# Benime https://benime.app - Whiteboard Video Make
 Benime is a android application to create whiteboard videos
 
 Create marketing and presentation videos within a minute
